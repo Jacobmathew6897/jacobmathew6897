@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help in securing a full time analytical role i.e Data Analyst,Data Engineer,Data Scientist,Business Intelligence Analyst,Supply Chain Analyst 
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at { https://github.com/Jacobmathew6897 }
   
 - 💬 Ask me about UTD & Analytics
 
