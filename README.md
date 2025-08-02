@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Jacob Samuel Mathew </h1>
 <h3 align="center">I am a Senior Data Analyst working with SoFi !</h3>
 
-🌱 Data analyst specializing in transforming complex data into strategic business insights across diverse industries, helping organizations make confident, data-driven decisions
+🌱 Analyst specializing in transforming complex data into strategic business insights across diverse industries, helping organizations make confident, data-driven decisions
 
-🤝 Always happy to connect and discuss analytical approaches, share experiences from different business contexts, or explore collaborative opportunities
+🤝 Always happy to connect and discuss more about analyics, share experiences from different business contexts, or explore collaborative opportunities
 
 💬 Let's talk UTD, Analytics, industry trends, and innovative data solutions
 
