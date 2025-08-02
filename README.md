@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋 I'm Jacob Samuel Mathew </h1>
-<h3 align="center">I am a  Business Intelligence Analyst working with TECO Energy !</h3>
+<h3 align="center">I am a Senior Data Analyst working with SoFi !</h3>
 
-- 🌱 I’m currently learning about Cloud Technologies & SAP
+🌱 Data analyst specializing in transforming complex data into strategic business insights across diverse industries, helping organizations make confident, data-driven decisions
 
-- 🤝 I’m looking for help in securing a full time analytical role i.e Data Analyst,Data Engineer,Data Scientist,Business Intelligence Analyst,Supply Chain Analyst 
+🤝 Always happy to connect and discuss analytical approaches, share experiences from different business contexts, or explore collaborative opportunities
 
-- 👨‍💻 All of my projects are available at { https://github.com/Jacobmathew6897 }
-  
-- 💬 Ask me about UTD & Analytics
+💬 Let's talk UTD, Analytics, industry trends, and innovative data solutions
 
 - 📫 How to reach me : **jacobmathew6897@gmail.com**
 
