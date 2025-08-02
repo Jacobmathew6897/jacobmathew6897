@@ -7,7 +7,7 @@
 
 💬 Let's talk UTD, Analytics, industry trends, and innovative data solutions
 
-- 📫 How to reach me : **jacobmathew6897@gmail.com**
+📫 How to reach me : **jacobmathew6897@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
